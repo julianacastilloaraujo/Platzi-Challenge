@@ -1,0 +1,9 @@
+//switch 
+
+<head>
+<body>
+ Case 1:
+    <h1>Hola, soy Caso 1</h1>
+   break;
+</body>
+</head>
