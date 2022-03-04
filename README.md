@@ -1,2 +1,2 @@
-# Estructuras-Basicas-en-HTML5
-Ejercicios con algunas estructuras basicas en HTML5
+# Platzi-Challenge
+Ejercicios para lograr el #PlatziChallenge de Marzo del 2022
